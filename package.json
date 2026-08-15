@@ -1,0 +1,1 @@
+{"name":"chensidong-portfolio","private":true,"version":"1.0.0","type":"module","scripts":{"dev":"vite","build":"vite build","preview":"vite preview"},"dependencies":{"@tailwindcss/vite":"latest","@vitejs/plugin-react":"latest","lucide-react":"latest","motion":"latest","tailwindcss":"latest","vite":"latest","react":"latest","react-dom":"latest"},"devDependencies":{}}
